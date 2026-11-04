@@ -9,7 +9,7 @@
 <br />
 
 <a href="https://arian00001.site"><img src="https://img.shields.io/badge/Portfolio-arian00001.site-216e39?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/jarvis799"><img src="https://img.shields.io/badge/GitHub-arian00001-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/jarvis799"><img src="https://img.shields.io/badge/GitHub-jarvis799-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.instagram.com/dev_ayan00001/"><img src="https://img.shields.io/badge/Instagram-dev__ayan00001-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://t.me/DevStyleHQ"><img src="https://img.shields.io/badge/Telegram-DevStyleHQ-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
@@ -46,19 +46,19 @@ I care about fast load times, readable code, restrained visual design and interf
 ## GitHub
 
 <p>
-<img src="https://img.shields.io/badge/100K-CONTRIBUTIONS-216e39?style=for-the-badge&logo=github&logoColor=white" alt="100K contributions badge" />
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-188-216e39?style=for-the-badge&logo=github&logoColor=white" alt="100K contributions badge" />
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=jarvis799&show_icons=true&hide_border=true&bg_color=ffffff&title_color=216e39&text_color=1f2328&icon_color=30a14e&include_all_commits=true&count_private=false" height="165" alt="arian00001 — GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis799&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=216e39&text_color=1f2328" height="165" alt="arian00001 — most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=jarvis799&show_icons=true&hide_border=true&bg_color=ffffff&title_color=216e39&text_color=1f2328&icon_color=30a14e&include_all_commits=true&count_private=false" height="165" alt="jarvis799 — GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis799&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=216e39&text_color=1f2328" height="165" alt="jarvis799 — most used languages" />
 </p>
 
 <p>
-<img src="https://streak-stats.demolab.com?user=arian00001&hide_border=true&background=FFFFFF&sideLabels=6b7280&dates=9ca3af&ring=30a14e&fire=216e39&currStreakLabel=216e39&currStreakNum=216e39&sideNums=1f2328" height="165" alt="arian00001 — contribution streak" />
+<img src="https://streak-stats.demolab.com?user=jarvis799&hide_border=true&background=FFFFFF&sideLabels=6b7280&dates=9ca3af&ring=30a14e&fire=216e39&currStreakLabel=216e39&currStreakNum=216e39&sideNums=1f2328" height="165" alt="jarvis799 — contribution streak" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jarvis799&bg_color=ffffff&color=216e39&line=40c463&point=216e39&area=true&hide_border=true" width="100%" alt="arian00001 — contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jarvis799&bg_color=ffffff&color=216e39&line=40c463&point=216e39&area=true&hide_border=true" width="100%" alt="jarvis799 — contribution activity graph" />
 
 <sub>Charts are rendered live from the GitHub API for <code>jarvis799</code>. Contribution colours follow GitHub's own scale: <code>#ebedf0</code> · <code>#9be9a8</code> · <code>#40c463</code> · <code>#30a14e</code> · <code>#216e39</code>.</sub>
 
